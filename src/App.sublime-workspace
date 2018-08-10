@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hour",
+				"hour-hand"
+			],
+			[
+				"secon",
+				"secondHand"
+			],
+			[
+				"second",
+				"secondsDegress"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"transform",
+				"transform-origin\tproperty"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"search",
+				"searchfield"
+			],
+			[
+				"pa",
+				"passwordPrompt"
+			],
+			[
+				"ue",
+				"userNamePrompt"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"time",
+				"timeline"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"Hello.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jdionc/Desktop/robofriends/src/robots.js",
+		"/Users/jdionc/Dropbox/Web Dev/JavaScript30-master/02 - JS and CSS Clock/index-FINISHED.html",
+		"/Users/jdionc/Dropbox/Web Dev/JavaScript30-master/02 - JS and CSS Clock/index-START.html",
+		"/Users/jdionc/Desktop/robofriends/src/Card.js",
+		"/Users/jdionc/Downloads/robots.js",
+		"/Users/jdionc/Desktop/robofriends/src/Hello.js",
+		"/Users/jdionc/Dropbox/Web Dev/Udemy Course Files/Background Generator/bundle.js",
+		"/Users/jdionc/Dropbox/Web Dev/Udemy Course Files/Background Generator/index.html",
+		"/Users/jdionc/Dropbox/Web Dev/Udemy Course Files/Background Generator/package-lock.json",
+		"/Users/jdionc/Dropbox/Web Dev/Udemy Course Files/Background Generator/script.js",
+		"/Users/jdionc/Dropbox/Web Dev/Udemy Course Files/Background Generator/style.css",
+		"/Users/jdionc/Desktop/package-lock.json",
+		"/Users/jdionc/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jdionc/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jdionc/Downloads/index.html",
+		"/Users/jdionc/Downloads/exercise7.txt",
+		"/Users/jdionc/Downloads/script.js",
+		"/Users/jdionc/Downloads/fd.js",
+		"/Users/jdionc/Downloads/exercise6.txt",
+		"/Users/jdionc/Downloads/exercise5.txt",
+		"/Users/jdionc/Downloads/index (2).html",
+		"/Users/jdionc/Downloads/index (3).html",
+		"/Users/jdionc/Downloads/exercise4.txt",
+		"/Users/jdionc/Downloads/exercise4-SOLUTIONS.txt",
+		"/Users/jdionc/Downloads/exercise3.txt",
+		"/Users/jdionc/Downloads/exercise3-SOLUTIONS.txt",
+		"/Users/jdionc/Downloads/exercise2-SOLUTIONS.txt",
+		"/Users/jdionc/Downloads/exercise2.txt",
+		"/Users/jdionc/Downloads/style (2).css",
+		"/Users/jdionc/Downloads/style (1).css",
+		"/Users/jdionc/Downloads/style.css",
+		"/Users/jdionc/Desktop/robot.css",
+		"/Users/jdionc/Desktop/robot.html",
+		"/Users/jdionc/Downloads/login.html",
+		"/Users/jdionc/Downloads/about.html",
+		"/Users/jdionc/Downloads/CSS-Cheat-Sheet.txt",
+		"/Users/jdionc/Downloads/newpage.html",
+		"/Users/jdionc/Downloads/register.html",
+		"/Users/jdionc/Desktop/Index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
